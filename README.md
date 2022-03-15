@@ -14,5 +14,5 @@ void main()
   switch (dayplan)
     case WORKDAY: work(); break();
     case WEEKEND: 
-    case HOLYDAYS: JustDoIt();
+    case HOLYDAYS: JustDoIt(); break();
 }
