@@ -15,4 +15,6 @@ void main()
     case WORKDAY: work(); break();
     case WEEKEND: 
     case HOLYDAYS: JustDoIt(); break();
+   
+   return;
 }
