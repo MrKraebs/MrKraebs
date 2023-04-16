@@ -1,6 +1,6 @@
 // 👋 Hi, I’m @MrKraebs
-// 👀 I’m interested in C/ C++/ C#/ Python/ Mbedet systems/ IOT
-// 🌱 I’m currently learning C#
+// 👀 I’m interested in C/ C++/ C#/ Python/ Mbeded systems/ PICµC/ IOT
+// 🌱 I’m currently learning C
 
 #include <day.h>
 
